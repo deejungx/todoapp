@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fdd835</color>
+    <color name="colorPrimaryDark">#c6a700</color>
+    <color name="colorAccent">#ffff6b</color>
+
+    <color name="colorListPrimary">#fdd835</color>
+    <color name="colorListPrimaryDark">#c6a700</color>
+    <color name="colorListAccent">#ffff6b</color>
+
+    <color name="colorEditPrimary">#fdd835</color>
+    <color name="colorEditPrimaryDark">#c6a700</color>
+    <color name="colorEditAccent">#ffff6b</color>
+
+    <color name="colorHeading">#000000</color>
+    <color name="colorMessage">#000000</color>
+    <color name="colorContent">#000000</color>
+    <color name="colorHint">#000000</color>
+    <color name="colorNotification">#000000</color>
+
+    <color name="colorDateTimeBackground">#ffff6b</color>
+    <color name="colorDateTimeFont">#000000</color>
+
+    <color name="list_heading">#000000</color>
+    <color name="list_date_and_time">#000000</color>
+
+    <color name="colorToDoDisplay">#000000</color>
+    <color name="colorToDoValue">#c6a700</color>
+
+    <color name="colorButton">#fdd835</color>
+    <color name="colorButtonText">#000000</color>
+
+
+
+
+</resources>
